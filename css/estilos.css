@@ -1,0 +1,45 @@
+.cabecalho
+{
+    background-color: slategrey;
+    text-align: center;
+    padding:60px 25px;
+    height: 275px;
+
+
+
+}
+#titulo{
+    text-decoration-color: cadetblue;
+    font-size: 65px;
+}
+#menu ul {
+    padding:0px;
+    margin:0px;
+    background-color:slategrey;
+    list-style:none;
+
+
+
+}
+
+#menu ul li {
+    display: inline;
+    margin-right: 20px;
+
+}
+
+#menu ul li a {
+    padding: 2px 10px;
+    display: inline-block;
+    background-color: r;
+    color:black;
+    font-size: 30px;
+    text-decoration:none;
+
+
+}
+#menu ul li a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    text-decoration: none;
+}
