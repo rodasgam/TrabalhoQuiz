@@ -1,45 +1,14 @@
-.cabecalho
-{
+#btn1{
     background-color: slategrey;
-    text-align: center;
-    padding:60px 25px;
-    height: 275px;
-
-
-
+    color: Black;
+    border: 3px solid #;
 }
-#titulo{
-    text-decoration-color: cadetblue;
-    font-size: 65px;
-}
-#menu ul {
-    padding:0px;
-    margin:0px;
-    background-color:slategrey;
-    list-style:none;
 
-
+#iniciar {
+    text-align:center;
 
 }
 
-#menu ul li {
-    display: inline;
-    margin-right: 20px;
-
-}
-
-#menu ul li a {
-    padding: 2px 10px;
-    display: inline-block;
-    background-color: r;
-    color:black;
-    font-size: 30px;
-    text-decoration:none;
-
-
-}
-#menu ul li a:hover {
-    background-color:#D6D6D6;
-    color: #6D6D6D;
-    text-decoration: none;
+.nj {
+    font-size:25px;
 }

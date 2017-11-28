@@ -15,25 +15,23 @@
 </head>
 <body>
 
-
-<div class="cabecalho">
-    <h1 id="titulo">Trivia Quiz</h1>
-    <p class=".lead">Joga Connosco!</p>
-    <nav id="menu">
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="iniciarjogo.html">Iniciar Jogo</a></li>
-            <li><a href="resumojogo.html">Resumo Jogo</a></li>
-            <li><a href="top10.html">Top 10</a></li>
-            <li><a href="favoritos.html">Favoritos</a></li>
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="#">Trivia Quiz</a>
+        </div>
+        <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Iniciar Jogo</a></li>
+            <li><a href="#">Resumo Jogo</a></li>
+            <li><a href="#">Top 10</a></li>
+            <li><a href="#">Favoritos</a></li>
         </ul>
-    </nav>
-</div>
+    </div>
+</nav>
 
-<form id="registo">
-    Nome do Jogador: <input type="text" name="Nome do Jogador"><br>
-    Categoria: <input type="text" name="Categoria"><br>
-    Nivel: <input type="text" name="Nivel"><br>
+<form id="iniciar">
+    <p class="nj">Nome do Jogador:</p><input type="text" name="Nome do Jogador" ><br>
+    <button id="btn1" type="submit">Iniciar Jogo</button>
 </form>
 
 
