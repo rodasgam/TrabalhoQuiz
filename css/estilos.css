@@ -1,7 +1,9 @@
-#btn1{
-    background-color: slategrey;
-    color: Black;
-    border: 3px solid #;
+.btn1{
+    background-color: dimgrey;
+    color: white;
+    width: 150px;
+    height: 80px;
+    border: 2px solid darkslategrey;
 }
 
 #iniciar {
@@ -10,5 +12,5 @@
 }
 
 .nj {
-    font-size:25px;
+    font-size:20px;
 }
