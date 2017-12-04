@@ -1,9 +1,17 @@
+body {
+
+    background-color: lightslategrey;
+}
+
+
+
 .btn1{
     background-color: dimgrey;
     color: white;
     width: 150px;
     height: 80px;
     border: 2px solid darkslategrey;
+    font-size: 20px;
 }
 
 #iniciar {
@@ -12,5 +20,11 @@
 }
 
 .nj {
-    font-size:20px;
+    font-size:25px;
+    font-family: Algerian;
+}
+
+#ip {
+    margin-bottom: 5px;
+
 }
