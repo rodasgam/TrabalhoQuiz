@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="38f58d9f-a95a-4cdf-9678-a29af5cf9f4f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
+=======
+    <list default="true" id="ed27c6ff-31bd-423d-9be3-042379f70566" name="Default" comment="" />
+>>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
 =======
     <list default="true" id="ed27c6ff-31bd-423d-9be3-042379f70566" name="Default" comment="" />
 >>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
@@ -24,9 +28,12 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="630">
               <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
 =======
+=======
+>>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
             <state relative-caret-position="425">
               <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
               <folding />
@@ -59,6 +66,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
               <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+<<<<<<< HEAD
+>>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
+=======
 >>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
               <folding />
             </state>
@@ -68,15 +78,21 @@
     </leaf>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
 =======
+=======
+>>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
       </list>
     </option>
+<<<<<<< HEAD
+>>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
+=======
 >>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
   </component>
   <component name="IdeDocumentHistory">
@@ -84,12 +100,18 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
         <option value="$PROJECT_DIR$/top10.html" />
         <option value="$PROJECT_DIR$/favoritos.html" />
         <option value="$PROJECT_DIR$/resumojogo.html" />
         <option value="$PROJECT_DIR$/css/estilos.css" />
         <option value="$PROJECT_DIR$/iniciarjogo.html" />
+<<<<<<< HEAD
+>>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
+=======
 >>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
       </list>
     </option>
@@ -101,16 +123,22 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="455" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
 =======
+=======
+>>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
   <component name="ProjectFrameBounds">
     <option name="x" value="509" />
     <option name="y" value="413" />
     <option name="width" value="1195" />
     <option name="height" value="586" />
+<<<<<<< HEAD
+>>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
+=======
 >>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
   </component>
   <component name="ProjectView">
@@ -129,8 +157,11 @@
     </navigator>
     <panes>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pane id="ProjectPane" />
 =======
+=======
+>>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,6 +178,9 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+>>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
+=======
 >>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
       <pane id="Scratches" />
       <pane id="Scope" />
@@ -156,6 +190,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+>>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
 =======
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -179,6 +218,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <changelist id="38f58d9f-a95a-4cdf-9678-a29af5cf9f4f" name="Default" comment="" />
       <created>1512384879797</created>
       <option name="number" value="Default" />
@@ -186,6 +226,8 @@
       <updated>1512384879797</updated>
       <workItem from="1512384882214" duration="60000" />
 =======
+=======
+>>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
       <changelist id="ed27c6ff-31bd-423d-9be3-042379f70566" name="Default" comment="" />
       <created>1511783529859</created>
       <option name="number" value="Default" />
@@ -196,11 +238,15 @@
       <workItem from="1511868954919" duration="8222000" />
       <workItem from="1511965176278" duration="45000" />
       <workItem from="1512384450701" duration="338000" />
+<<<<<<< HEAD
+>>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
+=======
 >>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="60000" />
   </component>
@@ -224,6 +270,8 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
 =======
+=======
+>>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
     <option name="totallyTimeSpent" value="11177000" />
   </component>
   <component name="ToolWindowManager">
@@ -245,6 +293,9 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+>>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
+=======
 >>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -263,9 +314,12 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="630">
           <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
 =======
+=======
+>>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
         <state relative-caret-position="425">
           <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
           <folding />
@@ -430,6 +484,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="21" lean-forward="false" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+<<<<<<< HEAD
+>>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
+=======
 >>>>>>> 41f056580fee6d229a6078e33703a829ce1d087f
           <folding />
         </state>
