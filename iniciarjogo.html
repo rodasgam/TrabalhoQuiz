@@ -29,10 +29,27 @@
     </div>
 </nav>
 <div id="iniciar">
-    <p class="nj">Nome do Jogador:</p><input id="ip"type="text" name="Nome do Jogador" ><br>
-    <button type="button" class="btn btn1">Iniciar Jogo</button>
-
+    <p class="nj">Nome do Jogador:</p><input id="nome"type="text" name="Nome do Jogador" ><br>
+    <button id="btnAdicionar" onclick="adicionar()"type="button" class="btn btn1">Iniciar Jogo</button>
 </div>
+
+
+<script>
+    function adicionar()
+    {
+        localStorage.nome = $("#nome").val();
+        //localStorage.setItem(nome.value);
+        alert("Nome adicionado.");
+        //nome.value = "";
+    }
+
+
+    /*function buscar() {
+            var n = localStorage.nome;
+            alert(n);
+
+    }*/
+</script>
 </body>
 
-</html> 
+</html>
