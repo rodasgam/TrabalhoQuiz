@@ -15,7 +15,10 @@
 </head>
 <body>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> a1027d78af57f2b3865a56801310b4fe7c4d5c0b
 <nav class="navbar navbar-default">
     <div class="container-fluid">
         <div class="navbar-header">
@@ -29,6 +32,7 @@
         </ul>
     </div>
 </nav>
+<<<<<<< HEAD
 <div id="cont">
     
 </div>
@@ -41,6 +45,40 @@
 
 </script>
 <button></button>
+=======
+<div id="iniciar">
+    <p class="nj">Nome do Jogador:</p><input id="nome"type="text" name="Nome do Jogador" ><br>
+    <button id="btnAdicionar" onclick="iniciar()" type="button" class="btn btn1">Iniciar Jogo</button>
+    <select id="dificuldade">
+        <option value="facil">Fácil</option>
+        <option value="normal">Normal</option>
+        <option value="dificil">Dificil</option>
+    </select>
+    <select id="categoria">
+        <option value="geo">Geografia</option>
+        <option value="ciencia">Ciencia de Computadores</option>
+        <option value="historia">Historia</option>
+    </select>
+</div>
+
+
+<script>
+    function iniciar()
+    {
+        localStorage.nome = $("#nome").val();
+        localStorage.dificuldade = $("#dificuldade").val();
+        localStorage.categoria = $("#categoria").val();
+        //alert("Nome e Dificuldade introduzida: " + localStorage.nome + " " + localStorage.dificuldade + " " + localStorage.categoria );//
+    }
+
+
+    /*function buscar() {
+            var n = localStorage.nome;
+            alert(n);
+
+    }*/
+</script>
+>>>>>>> a1027d78af57f2b3865a56801310b4fe7c4d5c0b
 </body>
 
 </html>
