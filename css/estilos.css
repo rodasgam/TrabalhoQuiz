@@ -28,3 +28,10 @@ body {
     margin-bottom: 5px;
 
 }
+
+
+div#mensagem p {
+    font-family: Courier;
+    color:#40E0D0;
+    text-align: center;
+}
