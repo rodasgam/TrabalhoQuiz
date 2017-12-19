@@ -3,7 +3,7 @@ $(document).ready(function() {
     var a= new Array();
     var geografia_facil= "https://opentdb.com/api.php?amount=10&category=22&difficulty=easy&type=multiple";
     var facil_geografia=JSON.stringify(a);
-
+    var jogo= $("#iniciar");
 
 
     $.getJSON(geografia_facil, function (data) {
@@ -14,13 +14,17 @@ $(document).ready(function() {
 
 
     $("#btnAdicionar").on("click",function(){
-        //localStorage.nome = $("#nome").val();
-        //localStorage.dificuldade = $("#dificuldade").val();
-        //localStorage.categoria = $("#categoria").val();
+        localStorage.nome = $("#nome").val();
+        localStorage.dificuldade = $("#dificuldade").val();
+        localStorage.categoria = $("#categoria").val();
         //window.location.href = "jogo.html";
-        $("#cont").html("<h1>" + a[0].question + "</h1> <button>" + a[0].correct_answer + "</button> <button>" + a[0].incorrect_answers[1] + "</button>"
-    );
+        $("#iniciar").css
+        ("#cont").html("<h1>" + a[0].question + "</h1> <button>" + a[0].correct_answer + "</button> <button>" + a[0].incorrect_answers[1] + "</button>";
+
+
+
     });
+
 
 });
 
