@@ -28,9 +28,14 @@
         </ul>
     </div>
 </nav>
-<div id="iniciar" style="display:block;">
-    <p class="nj">Nome do Jogador:</p><input id="nome"type="text" name="Nome do Jogador" ><br>
-    <button id="btnAdicionar"  type="button" class="btn btn1">Iniciar Jogo</button>
+<div class="container">
+    <form>
+        <div class="form-group">
+            <label for="nome">Nome:</label>
+            <input type="text" class="form-control" id="nome">
+        </div>
+    </form>
+
     <select id="dificuldade">
         <option value="facil">Fácil</option>
         <option value="normal">Normal</option>
@@ -41,6 +46,13 @@
         <option value="ciencia">Ciencia de Computadores</option>
         <option value="historia">Historia</option>
     </select>
+    <br>
+    <div class="row">
+        <div class="col-sm-4">
+            <button id="btnAdicionar"  type="button" class="btn btn1 btn-lg">Iniciar Jogo</button>
+        </div>
+
+
 
 <div id="cont">
 

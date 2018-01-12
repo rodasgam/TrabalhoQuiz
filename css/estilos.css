@@ -11,7 +11,9 @@ body {
     width: 150px;
     height: 80px;
     border: 2px solid darkslategrey;
-    font-size: 20px;
+    font-size: 100%;
+    margin-left: 5%;
+    margin-top: 1%;
 }
 
 #iniciar {
@@ -19,19 +21,37 @@ body {
 
 }
 
-.nj {
+.form-group {
     font-size:25px;
     font-family: Algerian;
 }
 
-#ip {
-    margin-bottom: 5px;
-
-}
 
 
 div#mensagem p {
     font-family: Courier;
     color:#40E0D0;
     text-align: center;
+}
+
+#nome{
+    max-width: 25%;
+    min-width: 200px;
+}
+
+
+.container img {
+    max-width: 70%;
+    min-width:70%;
+}
+.container p {
+    font-size: 14px;
+}
+
+#nome{
+    margin-bottom: 1%;
+}
+
+div#select {
+    max width 30%
 }
