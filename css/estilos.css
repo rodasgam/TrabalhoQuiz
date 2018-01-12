@@ -1,6 +1,5 @@
 body {
-
-    background-color: lightslategrey;
+    background-image: url("../imagens/fundo2.jpg");
 }
 
 
@@ -11,7 +10,9 @@ body {
     width: 150px;
     height: 80px;
     border: 2px solid darkslategrey;
-    font-size: 20px;
+    font-size: 100%;
+    margin-left:10%;
+    margin-top: 1%;
 }
 
 #iniciar {
@@ -19,15 +20,12 @@ body {
 
 }
 
-.nj {
+.form-group {
+    color: white;
     font-size:25px;
     font-family: Algerian;
 }
 
-#ip {
-    margin-bottom: 5px;
-
-}
 
 
 div#mensagem p {
@@ -36,7 +34,74 @@ div#mensagem p {
     text-align: center;
 }
 
+<<<<<<< HEAD
 #nomebuscar p {
 
 }
 #catbuscar
+=======
+#nome {
+    max-width: 25%;
+    min-width: 200px;
+
+}
+
+.container {
+    text-align: center;
+}
+
+.container img {
+    max-width: 70%;
+    min-width:70%;
+}
+.container p {
+    font-size: 14px;
+}
+
+#nome{
+    margin-bottom: 1%;
+}
+
+div#select {
+    max width 30%
+}
+
+.form-control{
+    display:inline;
+}
+
+.form-group{
+    margin-right: 7%;
+}
+
+/* ---------------------------------Perguntas;respostas------------------------------------------*/
+
+#info{
+
+    width: 300px;
+}
+
+
+#nomebuscar {
+    font-weight: bold;
+}
+
+
+#difibuscar{
+
+
+}
+
+
+#catbuscar{
+
+
+}
+
+
+
+
+
+
+
+>>>>>>> cfc52aa876b2496271a74420806a926f798cbda1
