@@ -1,6 +1,5 @@
 body {
-
-    background-color: lightslategrey;
+    background-image: url("../imagens/fundo2.jpg");
 }
 
 
@@ -22,6 +21,7 @@ body {
 }
 
 .form-group {
+    color: white;
     font-size:25px;
     font-family: Algerian;
 }
@@ -68,11 +68,16 @@ div#select {
     margin-right: 7%;
 }
 
-/* ---------------------------------Jquery------------------------------------------*/
+/* ---------------------------------Perguntas;respostas------------------------------------------*/
+
+#info{
+
+    width: 300px;
+}
+
 
 #nomebuscar {
-
-
+    font-weight: bold;
 }
 
 
@@ -86,6 +91,8 @@ div#select {
 
 
 }
+
+
 
 
 
