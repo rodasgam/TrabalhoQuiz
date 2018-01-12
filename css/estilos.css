@@ -12,7 +12,7 @@ body {
     height: 80px;
     border: 2px solid darkslategrey;
     font-size: 100%;
-    margin-left: 5%;
+    margin-left:10%;
     margin-top: 1%;
 }
 
@@ -34,11 +34,15 @@ div#mensagem p {
     text-align: center;
 }
 
-#nome{
+#nome {
     max-width: 25%;
     min-width: 200px;
+
 }
 
+.container {
+    text-align: center;
+}
 
 .container img {
     max-width: 70%;
@@ -55,3 +59,35 @@ div#mensagem p {
 div#select {
     max width 30%
 }
+
+.form-control{
+    display:inline;
+}
+
+.form-group{
+    margin-right: 7%;
+}
+
+/* ---------------------------------Jquery------------------------------------------*/
+
+#nomebuscar {
+
+
+}
+
+
+#difibuscar{
+
+
+}
+
+
+#catbuscar{
+
+
+}
+
+
+
+
+
